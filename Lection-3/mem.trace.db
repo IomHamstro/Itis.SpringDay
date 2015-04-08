@@ -1,0 +1,8 @@
+04-08 23:30:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "ORDERS" не найдена
+Table "ORDERS" not found; SQL statement:
+SELECT guest FROM orders where event = ? [42102-174]
+04-08 23:37:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "ORDERS" не найдена
+Table "ORDERS" not found; SQL statement:
+SELECT guest FROM orders where event = ? [42102-174]
